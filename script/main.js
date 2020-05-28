@@ -6,9 +6,6 @@ const API_KEY = '6d9b26a15078caee9db4dc82a86d921a';
 
 
 
-console.log(API_KEY);
-
-
 
 
 const leftMenu = document.querySelector ('.left-menu');
