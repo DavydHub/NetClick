@@ -3,7 +3,7 @@
 
 const IMG_URL = 'https://image.tmdb.org/t/p/w185_and_h278_bestv2';
 const API_KEY = '6d9b26a15078caee9db4dc82a86d921a';
-console.log(fdf);
+
 
 
 const leftMenu = document.querySelector ('.left-menu');
